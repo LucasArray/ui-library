@@ -5,7 +5,17 @@
 ```npm run storybook```
 ```npm run test``` to run tests
 
-I was able to get 1 test completed. Ran out of time. Tried to build it off memory with minimal documentation use. got tied up with conditional styling and emotion library and was left with 30 minutes to do tests. Couldnt finish the close button. 
+I was able to get 1 test completed. Ran out of time. Tried to build it off memory with minimal documentation use. got tied up with conditional styling and emotion library and was left with 30 minutes to do tests. Couldnt finish the close button.
+
+## Future Improvements & QOL Improvements & Future Considerations
+- Add close button to Modal
+- Add design tokens to model styles
+- More tests especially to test if react portal is a better approach. Need to do a/b speed test to compare emotion to styledcomponents library or other methods. 
+- Need Q/A testing to make sure Modal is focus trapped
+- Needs full project setup.
+- Components should be built in branches and merged into main.
+- App.tsx and other none ui files can be deleted
+- private npm setup for ui-library
 
 ## Project Struction
 ### components Folder
@@ -24,15 +34,7 @@ Special features componenets.
 Build scripts & other scripts
 such design token build script
 
-## Future Improvements & QOL Improvements & Future Considerations
-- Add close button to Modal
-- Add design tokens to model styles
-- More tests especially to test if react portal is a better approach. Need to do a/b speed test to compare emotion to styledcomponents library or other methods. 
-- Need Q/A testing to make sure Modal is focus trapped
-- Needs full project setup.
-- Components should be built in branches and merged into main.
-- App.tsx and other none ui files can be deleted
-- private npm setup for ui-library
+
 
 <!-- 
 
