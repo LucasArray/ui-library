@@ -7,6 +7,9 @@
 
 I was able to get 1 test completed. Ran out of time. Tried to build it off memory with minimal documentation use. got tied up with conditional styling and emotion library and was left with 30 minutes to do tests. Couldnt finish the close button.
 
+Live unedited video of working on this project:
+https://youtu.be/x3vQz4qb9xo
+
 ## Future Improvements & QOL Improvements & Future Considerations
 - Add close button to Modal
 - Add design tokens to model styles
